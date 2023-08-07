@@ -1,2 +1,4 @@
-# Nutrientdetection
-Detecting Items of The nutirents
+<!-- hasanraza132002@gmail.com
++923359219977
+Hasan Raza
+Fullstackdeveloper -->
